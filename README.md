@@ -96,6 +96,8 @@ AI-powered banking fraud detection platform using machine learning and cybersecu
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Juideshmukh/)
 
+[![CodeForces](https://img.shields.io/badge/CodeForces-FFA116?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/jui_d)
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=juideshmukh7&label=Profile%20Views&color=0e75b6&style=flat)
