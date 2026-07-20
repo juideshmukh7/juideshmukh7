@@ -50,7 +50,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
 
 ---
 
