@@ -65,18 +65,17 @@ AI-powered banking fraud detection platform using machine learning and cybersecu
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=juideshmukh7&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=juideshmukh7&show_icons=true&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juideshmukh7&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juideshmukh7&layout=compact&theme=github_dark)
 
-![](https://streak-stats.demolab.com?user=juideshmukh7&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=juideshmukh7&theme=github-dark-blue)
 
 ---
 
 ## 📊 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=juideshmukh7&theme=tokyo-night)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juideshmukh7&theme=github-dark)
 ---
 
 ## 🎯 Currently Focusing On
